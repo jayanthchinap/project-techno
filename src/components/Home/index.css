@@ -1,0 +1,18 @@
+.app-container{
+    background-color: royalblue;
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    min-height: 100vh;
+    
+}
+
+.links{
+    font-family: Roboto;
+    margin: 10px;
+    color: black;
+    font-family: 'Roboto';
+    text-decoration: none;
+    font-size: 30px;
+    list-style-type: none;
+}
